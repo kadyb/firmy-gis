@@ -3,6 +3,9 @@
 **Elbląg:**
 - OPEGIEKA (https://opegieka.pl/)
 
+**Gdańsk:**
+- Blue Dot Solutions (https://www.bluedotsolutions.eu/)
+
 **Kraków:**
 - ProGea 4D (https://progea4d.pl)
 - GEOXY (https://www.geoxy.pl)
