@@ -16,6 +16,9 @@
 - GIS Support (https://gis-support.pl/)
 - GIS-Expert (https://www.gis-expert.pl/)
 
+**Łódź:**
+- TomTom (https://www.tomtom.com/)
+
 **Olsztyn:**
 - VIMAP (https://www.vimap.pl/)
 
