@@ -7,8 +7,6 @@
 - ProGea 4D (https://progea4d.pl)
 - GEOXY (https://www.geoxy.pl)
 - SATIM (https://www.satim.co/)
-
-**Krosno:**
 - SmallGIS (https://smallgis.pl/)
 
 **Lublin:**
