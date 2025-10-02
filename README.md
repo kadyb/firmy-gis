@@ -5,6 +5,7 @@
 
 **Gdańsk:**
 - Blue Dot Solutions (https://www.bluedotsolutions.eu/)
+- Wasat (https://wasat.pl/)
 
 **Kraków:**
 - ProGea 4D (https://progea4d.pl)
@@ -21,6 +22,7 @@
 
 **Olsztyn:**
 - VIMAP (https://www.vimap.pl/)
+- Visimind (https://visimind.com/pl/)
 
 **Poznań:**
 - GIS Support (https://gis-support.pl/)
@@ -30,6 +32,7 @@
 
 **Szczecin:**
 - GISPRO (https://www.gispro.pl/)
+- Fotokart (https://fotokart.pl)
 
 **Tarnów:**
 - MGGP Aero (https://www.mggpaero.com)
@@ -45,9 +48,11 @@
 - Centrum Badań Kosmicznych PAN (https://cbkpan.pl/)
 - Instytut Geodezji i Kartografii (http://www.igik.edu.pl/)
 - Sieć Badawcza Łukasiewicz – Instytut Lotnictwa (https://ilot.lukasiewicz.gov.pl/)
+- Warszawskie Przedsiębiorstwo Geodezyjne (https://wpg.com.pl/)
 
 **Wrocław:**
 - Wrocławski Instytut Zastosowań Informacji Przestrzennej i Sztucznej Inteligencji (https://www.wizipisi.ai/)
+- SHH (https://www.shh.pl/)
 
 **Jeśli znasz jeszcze jakieś firmy zajmujące się przede wszystkim geoinformacją, geoinformatyką
 czy teledetekcją, to uzupełnienie listy jest mile widziane!**
