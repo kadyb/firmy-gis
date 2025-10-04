@@ -54,5 +54,6 @@
 - Wrocławski Instytut Zastosowań Informacji Przestrzennej i Sztucznej Inteligencji (https://www.wizipisi.ai/)
 - SHH (https://www.shh.pl/)
 
-**Jeśli znasz jeszcze jakieś firmy zajmujące się przede wszystkim geoinformacją, geoinformatyką
+\
+**Jeśli znasz inne firmy zajmujące się przede wszystkim geoinformacją, geoinformatyką
 czy teledetekcją, to uzupełnienie listy jest mile widziane!**
