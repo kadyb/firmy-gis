@@ -43,6 +43,7 @@
 - CloudFerro (https://cloudferro.com/)
 - SatAgro (https://satagro.pl/)
 - Globema (https://www.globema.pl/)
+- Esri Polska (https://esri.pl/)
 - EnviroSolutions (https://envirosolutions.pl/)
 - SkySnap (https://skysnap.pl/)
 - Centrum Badań Kosmicznych PAN (https://cbkpan.pl/)
@@ -53,6 +54,7 @@
 **Wrocław:**
 - Wrocławski Instytut Zastosowań Informacji Przestrzennej i Sztucznej Inteligencji (https://www.wizipisi.ai/)
 - SHH (https://www.shh.pl/)
+- GISPartner (https://www.gispartner.pl/)
 
 \
 **Jeśli znasz inne firmy zajmujące się przede wszystkim geoinformacją, geoinformatyką
