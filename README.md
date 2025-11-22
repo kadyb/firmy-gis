@@ -12,6 +12,7 @@
 - GEOXY (https://www.geoxy.pl)
 - SATIM (https://www.satim.co/)
 - SmallGIS (https://smallgis.pl/)
+- Here Technologies (https://www.here.com/)
 
 **Lublin:**
 - GIS Support (https://gis-support.pl/)
